@@ -7,3 +7,5 @@ Some function are required to be made without any reference function, though.
 For this project, I got full mark, so all can be references.
 Anyway, I think one might crash or causes warning if is run on linux not mac, so be careful. But yeah, you know what to do. See the logic not the code. <br>
 Good luck!
+## To test it
+use make or make bonus to compile. Other rules can be view in makefile file
